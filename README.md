@@ -1,6 +1,6 @@
 # speech-recognition_practice
 
-source : https://github.com/Uberi/speech_recognition
+source : <https://github.com/Uberi/speech_recognition>
 
 ## 実行環境
 
@@ -11,7 +11,7 @@ source : https://github.com/Uberi/speech_recognition
 
 ### python 3.5.4
 
-- https://www.python.org/downloads/windows/
+- <https://www.python.org/downloads/windows/>
 - Download `Windows x86-64 executable installer`
 
 ### 必要なパッケージ (SpeechRecognition, pyaudio, pocketsphinx )
@@ -26,7 +26,7 @@ source : https://github.com/Uberi/speech_recognition
 - python -m pip install .\PyAudio-0.2.11-cp37-cp37m-win_amd64.whl
 - 「python -m pip show pyaudio」で NumPy 等と同じ場所にちゃんとインストールされているかを確認
 
-https://watlab-blog.com/2019/05/21/pyaudio-install/
+<https://watlab-blog.com/2019/05/21/pyaudio-install/>
 
 ## 現状
 
@@ -40,4 +40,4 @@ https://watlab-blog.com/2019/05/21/pyaudio-install/
 
 ## 参考ページ
 
-https://qiita.com/daiarg/items/ff1b9f91d0804e6a8f18
+<https://qiita.com/daiarg/items/ff1b9f91d0804e6a8f18>
